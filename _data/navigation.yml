@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.ca/citations?user=ixp-vqMAAAAJ&hl=en/
+
+  - title: "Papers I Read"
+    url: /papers-I-read/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching/Mentoring"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Portfolio"
+    # url: /portfolio/
     
   - title: "CV"
-    url: /cv/
+    url: /online-cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+    # url: /markdown/

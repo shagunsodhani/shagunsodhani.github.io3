@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: https://scholar.google.ca/citations?user=ixp-vqMAAAAJ&hl=en/
 
+  - title: "Patents"
+    url: /patents/
+
   - title: "Papers I Read"
     url: /papers-I-read/
 

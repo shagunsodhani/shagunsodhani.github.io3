@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shagun"
+  name             : "Shagun Sodhani"
   avatar           : "profile.jpg"
   bio              : "Deep Learning at Mila"
   location         : "Montreal"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/shagunsodhani/"
+  linkedin         : "shagunsodhani/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -213,8 +213,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
